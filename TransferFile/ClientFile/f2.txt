@@ -1,4 +1,2 @@
-Autre fichier n'ayant rien à voir !!!!!
-f22222 giquhqvbouihbdvo
-
-sheeeeshhhhh
+fichier f2.txt de test.
+Fichir présent dans ClientFile
