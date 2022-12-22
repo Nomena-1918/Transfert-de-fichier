@@ -1,2 +1,0 @@
-fichier f2.txt de test.
-Fichir présent dans ClientFile
