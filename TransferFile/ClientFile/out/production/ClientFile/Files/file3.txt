@@ -1,0 +1,4 @@
+Je suis file3.txt
+Le troisième
+
+Random message, juste pour le test
